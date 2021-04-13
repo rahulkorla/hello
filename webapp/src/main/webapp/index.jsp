@@ -3,4 +3,5 @@
 <h2> By Rahul </h2>
 <h3> Bye Bye </h3>
 <h1> Conflicts Resolved </h1>
-<h1> Deployed through Ansible </h1
+<h1> Deployed through Ansible </h1>
+<h2> DOcker Deployment Succesful </h2>
